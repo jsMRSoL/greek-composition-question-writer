@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+<!-- question: 0  -->
+<question type="category">
+<category>
+<text>$course$/1/Composition/verbs_1_3</text>
+</category>
+</question>
+<!-- question: 1001  -->
+<question type="cloze" > 
+<name>
+<text>verbs_1_3_q_1001</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>We are Romans.</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%sumus#Well done!} Romani.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1002  -->
+<question type="cloze" > 
+<name>
+<text>verbs_1_3_q_1002</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>I am Caecilius.</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%sum#Well done!~%0%*#You need the 'I' form of the present tense of be.} Caecilius.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1003  -->
+<question type="cloze" > 
+<name>
+<text>verbs_1_3_q_1003</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>You are happy.</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%estis#Well done!~%0%*#You need the you (s) form of the present tense of be.} contentae.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1004  -->
+<question type="cloze" > 
+<name>
+<text>verbs_1_3_q_1004</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>You are Melissa?</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%es#Well done!~%0%*#You need the 'you (s)' form of the present tense of be.} Melissa.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1005  -->
+<question type="cloze" > 
+<name>
+<text>verbs_1_3_q_1005</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>They are Greeks.</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%sunt#Well done!~%0%*#You need the 'they' form of the present tense of be.} Graeci.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1006  -->
+<question type="cloze" > 
+<name>
+<text>verbs_1_3_q_1006</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>She is Metella.</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%est#Well done!~%0%*#You need the 'he/she/it' form of the present tense of be.} Metella.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+</quiz>
